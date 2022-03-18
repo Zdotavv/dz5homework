@@ -5,5 +5,6 @@ public class Main {
         System.out.println("Собаки");
         System.out.println("Хомяки");
         System.out.println("Попугаи");
+        System.out.println("Попугаи2");
     }
 }
