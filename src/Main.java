@@ -6,5 +6,6 @@ public class Main {
         System.out.println("Хомяки");
         System.out.println("Попугаи");
         System.out.println("Попугаи2");
+        System.out.println("Ящерицы");
     }
 }
