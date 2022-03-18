@@ -7,6 +7,5 @@ public class Main {
         System.out.println("Попугаи");
         System.out.println("Ящерицы");
         System.out.println("Змеи");
-        System.out.println("рыбы");
     }
 }
